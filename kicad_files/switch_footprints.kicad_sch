@@ -1,0 +1,8043 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2feaaa27-c04d-44a0-8d7c-78ff8d908a24")
+	(paper "A2")
+	(lib_symbols
+		(symbol "acheronSymbols:HE_Switch"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "HE"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "HE_SWITCH"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Keyboard mechanical switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Keycode" "KC"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(symbol "HE_Switch_0_1"
+				(rectangle
+					(start -6.35 6.35)
+					(end 6.35 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(bus
+		(pts
+			(xy 19.05 25.4) (xy 19.05 323.85)
+		)
+		(stroke
+			(width 1.016)
+			(type dash)
+		)
+		(uuid "0bcd2c18-3550-402c-94cc-70c87d7dba12")
+	)
+	(bus
+		(pts
+			(xy 19.05 323.85) (xy 457.2 323.85)
+		)
+		(stroke
+			(width 1.016)
+			(type dash)
+		)
+		(uuid "ef4f92e7-e852-477f-8479-577a7e3b3e7e")
+	)
+	(bus
+		(pts
+			(xy 457.2 25.4) (xy 457.2 323.85)
+		)
+		(stroke
+			(width 1.016)
+			(type dash)
+		)
+		(uuid "f88188ab-47dd-450e-ac53-9eba44d5aad4")
+	)
+	(bus
+		(pts
+			(xy 19.05 25.4) (xy 457.2 25.4)
+		)
+		(stroke
+			(width 1.016)
+			(type dash)
+		)
+		(uuid "fa0b58ed-86f9-4275-a31e-a2b32d68b93c")
+	)
+	(text "SWITCH FOOTPRINTS"
+		(exclude_from_sim no)
+		(at 100.33 38.1 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+			(justify right bottom)
+		)
+		(uuid "4695c4ae-0088-4fa8-a044-1938a30d48d7")
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 181.61 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "027b80a8-a7e4-4fa3-bc79-533fa70fee10")
+		(property "Reference" "HE50"
+			(at 181.61 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 181.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 181.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 181.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 156.21 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0381b526-08f5-48e4-b492-6917fc1cb78e")
+		(property "Reference" "HE62"
+			(at 156.21 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 156.21 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 156.21 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 156.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 257.81 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "05e38afd-8bbe-4789-8a04-f07b7148e627")
+		(property "Reference" "HE38"
+			(at 257.81 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 257.81 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 257.81 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 257.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 283.21 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0614b545-f4dc-4fee-8919-8d988ed41a20")
+		(property "Reference" "HE54"
+			(at 283.21 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 283.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 283.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 283.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 232.41 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "06c21a4a-72f6-493a-9324-d663344a9d17")
+		(property "Reference" "HE22"
+			(at 232.41 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 232.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 232.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 232.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 257.81 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0cca50ba-660e-4711-9812-a168b661f28e")
+		(property "Reference" "HE23"
+			(at 257.81 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 257.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 257.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 257.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 359.41 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "112ee4bf-5a88-4ff7-9113-1364143659c9")
+		(property "Reference" "HE70"
+			(at 359.41 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 359.41 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX175HE"
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 359.41 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 359.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 359.41 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "177a4fce-dee1-43fd-80f6-a6174e799054")
+		(property "Reference" "HE27"
+			(at 359.41 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 359.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 359.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 359.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 181.61 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17c3bce4-0a8c-49e6-b2fb-1bd36df33abf")
+		(property "Reference" "HE35"
+			(at 181.61 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 181.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 181.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 181.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 257.81 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d457e6b-0b3e-4bf9-a24d-756bdf4b2a03")
+		(property "Reference" "HE8"
+			(at 257.81 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 257.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 257.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 257.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 384.81 297.815 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2408789d-febf-42d4-b135-c8b5fc8cb9b0")
+		(property "Reference" "HE79"
+			(at 381 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 388.62 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 388.62 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 384.81 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24f7c8d6-e839-4c77-8f5b-f4b3c82c8370")
+		(property "Reference" "HE36"
+			(at 207.01 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 207.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 207.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 410.21 259.715 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "260ec39f-f6b6-45d1-b18a-110dcf5edf1a")
+		(property "Reference" "HE71"
+			(at 406.4 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 414.02 259.715 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 414.02 259.715 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 410.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "290ced78-8da9-4923-8d39-5e0bbb2d68bc")
+		(property "Reference" "HE59"
+			(at 54.61 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 54.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX225HE"
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 54.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 130.81 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2cbe2905-bcdc-4afc-b753-4e796d195885")
+		(property "Reference" "HE61"
+			(at 130.81 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 130.81 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 130.81 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 130.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2cfe796d-7467-4bd4-832b-d4cf12ba460e")
+		(property "Reference" "HE40"
+			(at 308.61 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 308.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 308.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 80.01 221.615 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2dd87b32-86dd-4ae8-b02c-bcf4b4f69e50")
+		(property "Reference" "HE46"
+			(at 76.2 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 83.82 221.615 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 83.82 221.615 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 80.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 181.61 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30f2911d-b9cb-4dbc-b29a-ee4a58ade5f1")
+		(property "Reference" "HE63"
+			(at 181.61 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 181.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 181.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 181.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 156.21 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33834593-35f0-4d8b-a999-acb7de1a7c6f")
+		(property "Reference" "HE34"
+			(at 156.21 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 156.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 156.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 156.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3421e94c-8439-4f52-9689-ec0a74982efc")
+		(property "Reference" "HE25"
+			(at 308.61 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 308.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 308.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 297.815 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "361865c3-08b3-494d-8136-9365e772a2bc")
+		(property "Reference" "HE76"
+			(at 203.2 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 210.82 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX625HE"
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 210.82 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 359.41 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3637b8c8-79af-4abe-9971-e7aa51a0fd88")
+		(property "Reference" "HE12"
+			(at 359.41 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 359.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 359.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 359.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 130.81 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "384fecd7-0bb3-49ab-bf1a-ec9f7ed81f6b")
+		(property "Reference" "HE18"
+			(at 130.81 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 130.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 130.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 130.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 297.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "39ce3ec8-1131-460e-91fa-89d45080268d")
+		(property "Reference" "HE81"
+			(at 435.61 294.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 232.41 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ac668b3-41e5-4467-876f-542fafdf1773")
+		(property "Reference" "HE7"
+			(at 232.41 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 232.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 232.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 232.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d1d1276-8008-42bb-aaf0-8ec878bdd9bb")
+		(property "Reference" "HE11"
+			(at 334.01 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 359.41 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4101df60-6549-43ca-a030-25921eed8f97")
+		(property "Reference" "HE42"
+			(at 359.41 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 359.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 359.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 359.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "47d5b8a2-1ba9-4f29-8ba3-dd02e2df64c7")
+		(property "Reference" "HE58"
+			(at 435.61 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "48e0d6e5-32e0-452f-82a6-a97dedd8b0e6")
+		(property "Reference" "HE69"
+			(at 334.01 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 232.41 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4f7a6e1d-c4a0-40f4-99a4-b950b8101cf6")
+		(property "Reference" "HE65"
+			(at 232.41 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 232.41 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 232.41 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 232.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 257.81 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54f20e07-7a68-4cbe-b537-f2266bf071c9")
+		(property "Reference" "HE53"
+			(at 257.81 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 257.81 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 257.81 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 257.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 80.01 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "56735c25-519d-40fe-9bdf-a413a742b363")
+		(property "Reference" "HE2"
+			(at 80.01 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 80.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 80.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 80.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 80.01 297.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "595d08a8-fee0-4b50-9d1c-9ac021707b6f")
+		(property "Reference" "HE74"
+			(at 80.01 294.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 80.01 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX125HE"
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 80.01 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 80.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 181.61 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b2f2a22-5b7b-48b1-924d-4eeccdca45a1")
+		(property "Reference" "HE20"
+			(at 181.61 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 181.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 181.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 181.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5cd5661b-8c80-4b82-843e-1dc48c935065")
+		(property "Reference" "HE10"
+			(at 308.61 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 308.61 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 308.61 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 410.21 297.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d6837ad-1899-4501-a093-3bcf753014ac")
+		(property "Reference" "HE80"
+			(at 410.21 294.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 410.21 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 410.21 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 410.21 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "613aec9a-1119-4a50-94a0-da414296fd3d")
+		(property "Reference" "HE3"
+			(at 105.41 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 105.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 105.41 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64a727ae-3c72-4aed-8923-1bba97a4f31c")
+		(property "Reference" "HE21"
+			(at 207.01 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 207.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 207.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 232.41 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a37ae7c-b70b-4575-bdb9-b26456df63bb")
+		(property "Reference" "HE52"
+			(at 232.41 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 232.41 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 232.41 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 232.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6df0cb17-feb6-41ab-946d-2347a3df4a07")
+		(property "Reference" "HE17"
+			(at 105.41 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 105.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 105.41 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 297.815 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "76f37ebd-e349-4147-82f6-1e97588ffdc5")
+		(property "Reference" "HE77"
+			(at 304.8 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 312.42 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX125HE"
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 312.42 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE77")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 156.21 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "797efa41-b82b-4616-a57b-604fae86549c")
+		(property "Reference" "HE19"
+			(at 156.21 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 156.21 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 156.21 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 156.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c73cbf3-e747-4df6-9a7f-d940cde5d49b")
+		(property "Reference" "HE26"
+			(at 334.01 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 156.21 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ebb14d2-b89a-475e-90fc-b650cb1fa073")
+		(property "Reference" "HE49"
+			(at 156.21 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 156.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 156.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 156.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 221.615 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f78c1e1-59ee-48ab-a39c-0421b785e1e7")
+		(property "Reference" "HE45"
+			(at 50.8 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 58.42 221.615 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX175HE"
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 58.42 221.615 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 297.815 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "813f4c31-6c96-41b8-ad92-b7d92853f07b")
+		(property "Reference" "HE73"
+			(at 50.8 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 58.42 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX125HE"
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 58.42 297.815 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 283.21 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "81d5e479-decf-4410-aeea-4d4eb9e75c86")
+		(property "Reference" "HE9"
+			(at 283.21 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 283.21 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 283.21 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 283.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 145.415 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "81fe8acc-b4f9-4d07-aa34-a77ff3e3a00f")
+		(property "Reference" "HE15"
+			(at 50.8 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 58.42 145.415 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 58.42 145.415 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82175b27-f786-4879-bb51-80fe32853a64")
+		(property "Reference" "HE55"
+			(at 308.61 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 308.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 308.61 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 283.21 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "839f830d-9ddc-4208-a649-679944d76ef4")
+		(property "Reference" "HE67"
+			(at 283.21 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 283.21 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 283.21 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 283.21 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 107.315 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8865df97-2ec2-4ef3-89d4-d596c7138919")
+		(property "Reference" "HE1"
+			(at 50.8 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 58.42 107.315 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 58.42 107.315 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" ""
+			(at 54.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 259.715 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "937b064f-1846-431c-887f-87fd6337920f")
+		(property "Reference" "HE60"
+			(at 101.6 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 109.22 259.715 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 109.22 259.715 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 257.81 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "946e95f6-c8d2-4c34-b562-a17985d962b6")
+		(property "Reference" "HE66"
+			(at 257.81 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 257.81 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 257.81 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 257.81 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "99462e7d-88cf-4474-a206-8cd6960b261f")
+		(property "Reference" "HE44"
+			(at 435.61 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "99bca767-d05d-47c4-a30e-84d4b19ae2d9")
+		(property "Reference" "HE64"
+			(at 207.01 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 207.01 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 207.01 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 410.21 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a41ff3b3-32ff-406c-9ed5-bc055147dbf2")
+		(property "Reference" "HE43"
+			(at 410.21 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 410.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX150HE"
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 410.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 410.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 130.81 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a87f1de5-f785-4a2c-9dc5-195c1e792c3b")
+		(property "Reference" "HE48"
+			(at 130.81 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 130.81 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 130.81 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 130.81 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9acae9c-e7a1-4f1b-9a11-90702edc7fb4")
+		(property "Reference" "HE56"
+			(at 334.01 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aaa2e506-eabd-47ef-8f1c-4ab9e3fd501e")
+		(property "Reference" "HE32"
+			(at 105.41 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 105.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 105.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 384.81 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "abcb027c-c6ae-4827-93e1-86cc6b2ee926")
+		(property "Reference" "HE28"
+			(at 384.81 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 384.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX200HE"
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 384.81 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 384.81 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 283.21 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adc130dc-5da7-4e26-864b-3f375ceca933")
+		(property "Reference" "HE24"
+			(at 283.21 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 283.21 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 283.21 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 283.21 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bb13234b-b120-45de-a22e-af9e47595664")
+		(property "Reference" "HE41"
+			(at 334.01 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 130.81 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd13f9c3-389f-485b-92ce-ffeb3310f54c")
+		(property "Reference" "HE4"
+			(at 130.81 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 130.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 130.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 130.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 308.61 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bedfcc80-d30d-4d78-b703-ee47f249f350")
+		(property "Reference" "HE68"
+			(at 308.61 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 308.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 308.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 308.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf5264e8-a93f-4951-9a0e-0176ecc0e55c")
+		(property "Reference" "HE47"
+			(at 105.41 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 105.41 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 105.41 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 384.81 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c09c1922-4014-49f9-a28f-453a0f785243")
+		(property "Reference" "HE13"
+			(at 384.81 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 384.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 384.81 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 384.81 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 80.01 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c1cf1e6f-7373-478b-a4e2-2d8d78ea75d8")
+		(property "Reference" "HE16"
+			(at 80.01 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 80.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 80.01 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 80.01 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2a2492b-104c-4d94-80b3-ba4a5b05152d")
+		(property "Reference" "HE6"
+			(at 207.01 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 207.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 207.01 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 334.01 297.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c36abbac-9eee-4436-8c20-7881571add3f")
+		(property "Reference" "HE78"
+			(at 334.01 294.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 334.01 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX125HE"
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 334.01 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 334.01 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 232.41 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8215bb7-8407-44e1-ab0c-18660a4c9f25")
+		(property "Reference" "HE37"
+			(at 232.41 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 232.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 232.41 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 232.41 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 410.21 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d142795d-c523-4620-a718-ff9c24d9a824")
+		(property "Reference" "HE57"
+			(at 410.21 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 410.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX225HER"
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 410.21 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 410.21 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 105.41 297.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3a4780c-88ca-4337-91a0-5ef9bf7c03f9")
+		(property "Reference" "HE75"
+			(at 105.41 294.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 105.41 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX125HE"
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 105.41 301.625 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 105.41 297.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 80.01 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5ee5466-52cb-4b16-83a0-0e1fbc28b4f4")
+		(property "Reference" "HE31"
+			(at 80.01 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 80.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 80.01 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 80.01 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 54.61 183.515 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de9b446f-c2f6-4893-b5f4-a969c17f9318")
+		(property "Reference" "HE30"
+			(at 50.8 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 58.42 183.515 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX150HE"
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 58.42 183.515 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 54.61 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 156.21 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0fc9fee-276c-4113-9baf-a013928b6ffd")
+		(property "Reference" "HE5"
+			(at 156.21 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 156.21 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 156.21 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 156.21 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 130.81 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e2ec87af-d54f-49f3-bc2f-8dfaeb0f63be")
+		(property "Reference" "HE33"
+			(at 130.81 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 130.81 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 130.81 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 130.81 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 283.21 183.515 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e3d844ab-7eca-44bb-929a-75b245e9346a")
+		(property "Reference" "HE39"
+			(at 283.21 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 283.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 283.21 187.325 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 283.21 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 259.715 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e5e5dd00-8b08-46fe-ad9b-96e5d02bf2cc")
+		(property "Reference" "HE72"
+			(at 435.61 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 263.525 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 259.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 107.315 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6f952ed-8519-4de0-bb3e-487687b5483c")
+		(property "Reference" "HE14"
+			(at 435.61 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 111.125 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 207.01 221.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e98d288b-c09a-4e71-a693-ccba9f6b419e")
+		(property "Reference" "HE51"
+			(at 207.01 217.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 207.01 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 207.01 225.425 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 207.01 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "acheronSymbols:HE_Switch")
+		(at 435.61 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbfdeb5e-7fd6-4d1d-9352-d91d1e360eac")
+		(property "Reference" "HE29"
+			(at 435.61 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HE_SWITCH"
+			(at 435.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "acheron_MXHE:MX100HE"
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Keyboard mechanical switch"
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Keycode" "KC"
+			(at 435.61 149.225 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Specification" "MX-style mechanical keyboard switch hotswap (\"solderless\") socket"
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kailh"
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CPG151101S11"
+			(at 435.61 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "M75H"
+				(path "/9ce6b20d-0a6c-402a-b232-5eafd6242eb3/19507025-d48b-4dff-a04d-7f5962792cf4"
+					(reference "HE29")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
