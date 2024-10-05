@@ -224,7 +224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 181.61 221.615 0)
 			(effects
 				(font
@@ -233,7 +233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 181.61 221.615 0)
 			(effects
 				(font
@@ -321,7 +321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 156.21 259.715 0)
 			(effects
 				(font
@@ -330,7 +330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 156.21 259.715 0)
 			(effects
 				(font
@@ -418,7 +418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 257.81 183.515 0)
 			(effects
 				(font
@@ -427,7 +427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 257.81 183.515 0)
 			(effects
 				(font
@@ -515,7 +515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 283.21 221.615 0)
 			(effects
 				(font
@@ -524,7 +524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 283.21 221.615 0)
 			(effects
 				(font
@@ -612,7 +612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 232.41 145.415 0)
 			(effects
 				(font
@@ -621,7 +621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 232.41 145.415 0)
 			(effects
 				(font
@@ -709,7 +709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 257.81 145.415 0)
 			(effects
 				(font
@@ -718,7 +718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 257.81 145.415 0)
 			(effects
 				(font
@@ -806,7 +806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 359.41 259.715 0)
 			(effects
 				(font
@@ -815,7 +815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 359.41 259.715 0)
 			(effects
 				(font
@@ -903,7 +903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 359.41 145.415 0)
 			(effects
 				(font
@@ -912,7 +912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 359.41 145.415 0)
 			(effects
 				(font
@@ -1000,7 +1000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 181.61 183.515 0)
 			(effects
 				(font
@@ -1009,7 +1009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 181.61 183.515 0)
 			(effects
 				(font
@@ -1097,7 +1097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 257.81 107.315 0)
 			(effects
 				(font
@@ -1106,7 +1106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 257.81 107.315 0)
 			(effects
 				(font
@@ -1195,7 +1195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 384.81 297.815 0)
 			(effects
 				(font
@@ -1204,7 +1204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 384.81 297.815 0)
 			(effects
 				(font
@@ -1292,7 +1292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 183.515 0)
 			(effects
 				(font
@@ -1301,7 +1301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 183.515 0)
 			(effects
 				(font
@@ -1390,7 +1390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 410.21 259.715 0)
 			(effects
 				(font
@@ -1399,7 +1399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 410.21 259.715 0)
 			(effects
 				(font
@@ -1487,7 +1487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 259.715 0)
 			(effects
 				(font
@@ -1496,7 +1496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 259.715 0)
 			(effects
 				(font
@@ -1584,7 +1584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 130.81 259.715 0)
 			(effects
 				(font
@@ -1593,7 +1593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 130.81 259.715 0)
 			(effects
 				(font
@@ -1681,7 +1681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 183.515 0)
 			(effects
 				(font
@@ -1690,7 +1690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 183.515 0)
 			(effects
 				(font
@@ -1779,7 +1779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 80.01 221.615 0)
 			(effects
 				(font
@@ -1788,7 +1788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 80.01 221.615 0)
 			(effects
 				(font
@@ -1876,7 +1876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 181.61 259.715 0)
 			(effects
 				(font
@@ -1885,7 +1885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 181.61 259.715 0)
 			(effects
 				(font
@@ -1973,7 +1973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 156.21 183.515 0)
 			(effects
 				(font
@@ -1982,7 +1982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 156.21 183.515 0)
 			(effects
 				(font
@@ -2070,7 +2070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 145.415 0)
 			(effects
 				(font
@@ -2079,7 +2079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 145.415 0)
 			(effects
 				(font
@@ -2168,7 +2168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 297.815 0)
 			(effects
 				(font
@@ -2177,7 +2177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 297.815 0)
 			(effects
 				(font
@@ -2265,7 +2265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 359.41 107.315 0)
 			(effects
 				(font
@@ -2274,7 +2274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 359.41 107.315 0)
 			(effects
 				(font
@@ -2362,7 +2362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 130.81 145.415 0)
 			(effects
 				(font
@@ -2371,7 +2371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 130.81 145.415 0)
 			(effects
 				(font
@@ -2459,7 +2459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 297.815 0)
 			(effects
 				(font
@@ -2468,7 +2468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 297.815 0)
 			(effects
 				(font
@@ -2556,7 +2556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 232.41 107.315 0)
 			(effects
 				(font
@@ -2565,7 +2565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 232.41 107.315 0)
 			(effects
 				(font
@@ -2653,7 +2653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 107.315 0)
 			(effects
 				(font
@@ -2662,7 +2662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 107.315 0)
 			(effects
 				(font
@@ -2750,7 +2750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 359.41 183.515 0)
 			(effects
 				(font
@@ -2759,7 +2759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 359.41 183.515 0)
 			(effects
 				(font
@@ -2847,7 +2847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 221.615 0)
 			(effects
 				(font
@@ -2856,7 +2856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 221.615 0)
 			(effects
 				(font
@@ -2944,7 +2944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 259.715 0)
 			(effects
 				(font
@@ -2953,7 +2953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 259.715 0)
 			(effects
 				(font
@@ -3041,7 +3041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 232.41 259.715 0)
 			(effects
 				(font
@@ -3050,7 +3050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 232.41 259.715 0)
 			(effects
 				(font
@@ -3138,7 +3138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 257.81 221.615 0)
 			(effects
 				(font
@@ -3147,7 +3147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 257.81 221.615 0)
 			(effects
 				(font
@@ -3235,7 +3235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 80.01 107.315 0)
 			(effects
 				(font
@@ -3244,7 +3244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 80.01 107.315 0)
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 80.01 297.815 0)
 			(effects
 				(font
@@ -3341,7 +3341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 80.01 297.815 0)
 			(effects
 				(font
@@ -3429,7 +3429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 181.61 145.415 0)
 			(effects
 				(font
@@ -3438,7 +3438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 181.61 145.415 0)
 			(effects
 				(font
@@ -3526,7 +3526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 107.315 0)
 			(effects
 				(font
@@ -3535,7 +3535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 107.315 0)
 			(effects
 				(font
@@ -3623,7 +3623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 410.21 297.815 0)
 			(effects
 				(font
@@ -3632,7 +3632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 410.21 297.815 0)
 			(effects
 				(font
@@ -3720,7 +3720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 107.315 0)
 			(effects
 				(font
@@ -3729,7 +3729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 107.315 0)
 			(effects
 				(font
@@ -3817,7 +3817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 145.415 0)
 			(effects
 				(font
@@ -3826,7 +3826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 145.415 0)
 			(effects
 				(font
@@ -3914,7 +3914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 232.41 221.615 0)
 			(effects
 				(font
@@ -3923,7 +3923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 232.41 221.615 0)
 			(effects
 				(font
@@ -4011,7 +4011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 145.415 0)
 			(effects
 				(font
@@ -4020,7 +4020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 145.415 0)
 			(effects
 				(font
@@ -4109,7 +4109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 297.815 0)
 			(effects
 				(font
@@ -4118,7 +4118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 297.815 0)
 			(effects
 				(font
@@ -4206,7 +4206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 156.21 145.415 0)
 			(effects
 				(font
@@ -4215,7 +4215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 156.21 145.415 0)
 			(effects
 				(font
@@ -4303,7 +4303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 145.415 0)
 			(effects
 				(font
@@ -4312,7 +4312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 145.415 0)
 			(effects
 				(font
@@ -4400,7 +4400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 156.21 221.615 0)
 			(effects
 				(font
@@ -4409,7 +4409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 156.21 221.615 0)
 			(effects
 				(font
@@ -4498,7 +4498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 221.615 0)
 			(effects
 				(font
@@ -4507,7 +4507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 221.615 0)
 			(effects
 				(font
@@ -4596,7 +4596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 297.815 0)
 			(effects
 				(font
@@ -4605,7 +4605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 297.815 0)
 			(effects
 				(font
@@ -4693,7 +4693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 283.21 107.315 0)
 			(effects
 				(font
@@ -4702,7 +4702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 283.21 107.315 0)
 			(effects
 				(font
@@ -4791,7 +4791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 145.415 0)
 			(effects
 				(font
@@ -4800,7 +4800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 145.415 0)
 			(effects
 				(font
@@ -4888,7 +4888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 221.615 0)
 			(effects
 				(font
@@ -4897,7 +4897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 221.615 0)
 			(effects
 				(font
@@ -4985,7 +4985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 283.21 259.715 0)
 			(effects
 				(font
@@ -4994,7 +4994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 283.21 259.715 0)
 			(effects
 				(font
@@ -5083,7 +5083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 107.315 0)
 			(effects
 				(font
@@ -5092,7 +5092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 107.315 0)
 			(effects
 				(font
@@ -5199,7 +5199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 259.715 0)
 			(effects
 				(font
@@ -5208,7 +5208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 259.715 0)
 			(effects
 				(font
@@ -5296,7 +5296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 257.81 259.715 0)
 			(effects
 				(font
@@ -5305,7 +5305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 257.81 259.715 0)
 			(effects
 				(font
@@ -5393,7 +5393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 183.515 0)
 			(effects
 				(font
@@ -5402,7 +5402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 183.515 0)
 			(effects
 				(font
@@ -5490,7 +5490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 259.715 0)
 			(effects
 				(font
@@ -5499,7 +5499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 259.715 0)
 			(effects
 				(font
@@ -5587,7 +5587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 410.21 183.515 0)
 			(effects
 				(font
@@ -5596,7 +5596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 410.21 183.515 0)
 			(effects
 				(font
@@ -5684,7 +5684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 130.81 221.615 0)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 130.81 221.615 0)
 			(effects
 				(font
@@ -5781,7 +5781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 221.615 0)
 			(effects
 				(font
@@ -5790,7 +5790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 221.615 0)
 			(effects
 				(font
@@ -5878,7 +5878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 183.515 0)
 			(effects
 				(font
@@ -5887,7 +5887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 183.515 0)
 			(effects
 				(font
@@ -5975,7 +5975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 384.81 145.415 0)
 			(effects
 				(font
@@ -5984,7 +5984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 384.81 145.415 0)
 			(effects
 				(font
@@ -6072,7 +6072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 283.21 145.415 0)
 			(effects
 				(font
@@ -6081,7 +6081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 283.21 145.415 0)
 			(effects
 				(font
@@ -6169,7 +6169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 183.515 0)
 			(effects
 				(font
@@ -6178,7 +6178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 183.515 0)
 			(effects
 				(font
@@ -6266,7 +6266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 130.81 107.315 0)
 			(effects
 				(font
@@ -6275,7 +6275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 130.81 107.315 0)
 			(effects
 				(font
@@ -6363,7 +6363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 308.61 259.715 0)
 			(effects
 				(font
@@ -6372,7 +6372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 308.61 259.715 0)
 			(effects
 				(font
@@ -6460,7 +6460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 221.615 0)
 			(effects
 				(font
@@ -6469,7 +6469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 221.615 0)
 			(effects
 				(font
@@ -6557,7 +6557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 384.81 107.315 0)
 			(effects
 				(font
@@ -6566,7 +6566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 384.81 107.315 0)
 			(effects
 				(font
@@ -6654,7 +6654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 80.01 145.415 0)
 			(effects
 				(font
@@ -6663,7 +6663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 80.01 145.415 0)
 			(effects
 				(font
@@ -6751,7 +6751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 107.315 0)
 			(effects
 				(font
@@ -6760,7 +6760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 107.315 0)
 			(effects
 				(font
@@ -6848,7 +6848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 334.01 297.815 0)
 			(effects
 				(font
@@ -6857,7 +6857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 334.01 297.815 0)
 			(effects
 				(font
@@ -6945,7 +6945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 232.41 183.515 0)
 			(effects
 				(font
@@ -6954,7 +6954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 232.41 183.515 0)
 			(effects
 				(font
@@ -7042,7 +7042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 410.21 221.615 0)
 			(effects
 				(font
@@ -7051,7 +7051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 410.21 221.615 0)
 			(effects
 				(font
@@ -7139,7 +7139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 105.41 297.815 0)
 			(effects
 				(font
@@ -7148,7 +7148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 105.41 297.815 0)
 			(effects
 				(font
@@ -7236,7 +7236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 80.01 183.515 0)
 			(effects
 				(font
@@ -7245,7 +7245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 80.01 183.515 0)
 			(effects
 				(font
@@ -7334,7 +7334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 54.61 183.515 0)
 			(effects
 				(font
@@ -7343,7 +7343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 54.61 183.515 0)
 			(effects
 				(font
@@ -7431,7 +7431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 156.21 107.315 0)
 			(effects
 				(font
@@ -7440,7 +7440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 156.21 107.315 0)
 			(effects
 				(font
@@ -7528,7 +7528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 130.81 183.515 0)
 			(effects
 				(font
@@ -7537,7 +7537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 130.81 183.515 0)
 			(effects
 				(font
@@ -7625,7 +7625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 283.21 183.515 0)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 283.21 183.515 0)
 			(effects
 				(font
@@ -7722,7 +7722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 259.715 0)
 			(effects
 				(font
@@ -7731,7 +7731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 259.715 0)
 			(effects
 				(font
@@ -7819,7 +7819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 107.315 0)
 			(effects
 				(font
@@ -7828,7 +7828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 107.315 0)
 			(effects
 				(font
@@ -7916,7 +7916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 207.01 221.615 0)
 			(effects
 				(font
@@ -7925,7 +7925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 207.01 221.615 0)
 			(effects
 				(font
@@ -8013,7 +8013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kailh"
+		(property "Manufacturer" ""
 			(at 435.61 145.415 0)
 			(effects
 				(font
@@ -8022,7 +8022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CPG151101S11"
+		(property "Manufacturer Part Number" ""
 			(at 435.61 145.415 0)
 			(effects
 				(font

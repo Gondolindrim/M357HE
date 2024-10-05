@@ -10950,7 +10950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Guangdong Fenghua Advanced Tech"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -12130,8 +12130,35 @@
 				(hide yes)
 			)
 		)
-		(property "PKG" "3228"
+		(property "PKG" ""
 			(at 267.335 289.0198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OPSCO"
+			(at 254 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SK6812MINI-E"
+			(at 254 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C5149201"
+			(at 254 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12698,7 +12725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Guangdong Fenghua Advanced Tech"
 			(at 146.05 193.675 0)
 			(effects
 				(font
@@ -13502,7 +13529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Samsung"
 			(at 101.6 149.225 0)
 			(effects
 				(font
@@ -13511,7 +13538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "06035C104KAT2A"
+		(property "Manufacturer Part Number" "CL10A475KO8NNNC"
 			(at 101.6 149.225 0)
 			(effects
 				(font
@@ -13529,7 +13556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C88476"
+		(property "Vendor Part Number" "LCSC C19666"
 			(at 101.6 149.225 0)
 			(effects
 				(font
@@ -14414,7 +14441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Guangdong Fenghua Advanced Tech"
 			(at 266.7 73.025 0)
 			(effects
 				(font
@@ -14594,7 +14621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung"
 			(at 225.425 180.975 0)
 			(effects
 				(font
@@ -14603,7 +14630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CL10A475KO8NNNC"
 			(at 225.425 180.975 0)
 			(effects
 				(font
@@ -14621,7 +14648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C19666"
 			(at 225.425 180.975 0)
 			(effects
 				(font
@@ -15209,7 +15236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Guangdong Fenghua Advanced Tech"
 			(at 247.65 174.625 0)
 			(effects
 				(font
@@ -15827,8 +15854,35 @@
 				(hide yes)
 			)
 		)
-		(property "PKG" "3228"
+		(property "PKG" ""
 			(at 191.135 289.0198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OPSCO"
+			(at 177.8 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SK6812MINI-E"
+			(at 177.8 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C5149201"
+			(at 177.8 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16109,8 +16163,35 @@
 				(hide yes)
 			)
 		)
-		(property "PKG" "3228"
+		(property "PKG" ""
 			(at 305.435 289.0198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OPSCO"
+			(at 292.1 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SK6812MINI-E"
+			(at 292.1 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C5149201"
+			(at 292.1 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17858,8 +17939,35 @@
 				(hide yes)
 			)
 		)
-		(property "PKG" "3228"
+		(property "PKG" ""
 			(at 153.035 289.0198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OPSCO"
+			(at 139.7 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SK6812MINI-E"
+			(at 139.7 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C5149201"
+			(at 139.7 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19366,7 +19474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402CG150J500NT"
+		(property "Manufacturer Part Number" "0603B103K500NT"
 			(at 44.45 135.255 0)
 			(effects
 				(font
@@ -19375,7 +19483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C1548"
+		(property "Vendor Part Number" "LCSC C57112"
 			(at 44.45 135.255 0)
 			(effects
 				(font
@@ -19891,7 +19999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Kyocera"
+		(property "Manufacturer" "Guangdong Fenghua Advanced Tech"
 			(at 120.65 73.025 0)
 			(effects
 				(font
@@ -20709,7 +20817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402CG150J500NT"
+		(property "Manufacturer Part Number" "0603B103K500NT"
 			(at 57.15 135.255 0)
 			(effects
 				(font
@@ -20718,7 +20826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C1548"
+		(property "Vendor Part Number" "LCSC C57112"
 			(at 57.15 135.255 0)
 			(effects
 				(font
@@ -21060,8 +21168,35 @@
 				(hide yes)
 			)
 		)
-		(property "PKG" "3228"
+		(property "PKG" ""
 			(at 229.235 289.0198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OPSCO"
+			(at 215.9 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SK6812MINI-E"
+			(at 215.9 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C5149201"
+			(at 215.9 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
