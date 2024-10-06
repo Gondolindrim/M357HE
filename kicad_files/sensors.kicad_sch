@@ -9696,7 +9696,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 245.745 0)
 			(effects
 				(font
@@ -9740,7 +9740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 254 0)
 			(effects
 				(font
@@ -9749,7 +9749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 254 0)
 			(effects
 				(font
@@ -9868,7 +9868,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 152.4 118.745 0)
 			(effects
 				(font
@@ -9912,7 +9912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 153.67 127 0)
 			(effects
 				(font
@@ -9921,7 +9921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 153.67 127 0)
 			(effects
 				(font
@@ -9974,7 +9974,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 182.245 0)
 			(effects
 				(font
@@ -10018,7 +10018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 190.5 0)
 			(effects
 				(font
@@ -10027,7 +10027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 190.5 0)
 			(effects
 				(font
@@ -10146,7 +10146,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 118.745 0)
 			(effects
 				(font
@@ -10190,7 +10190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 127 0)
 			(effects
 				(font
@@ -10199,7 +10199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 127 0)
 			(effects
 				(font
@@ -10384,7 +10384,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 150.495 0)
 			(effects
 				(font
@@ -10428,7 +10428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 158.75 0)
 			(effects
 				(font
@@ -10437,7 +10437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 158.75 0)
 			(effects
 				(font
@@ -10521,6 +10521,33 @@
 			)
 		)
 		(property "Description" "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"
+			(at 381 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 381 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD74HC4067M"
+			(at 381 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C496123 "
 			(at 381 381 0)
 			(effects
 				(font
@@ -10825,7 +10852,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 86.995 0)
 			(effects
 				(font
@@ -10869,7 +10896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 95.25 0)
 			(effects
 				(font
@@ -10878,7 +10905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 95.25 0)
 			(effects
 				(font
@@ -10997,7 +11024,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 86.995 0)
 			(effects
 				(font
@@ -11041,7 +11068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 95.25 0)
 			(effects
 				(font
@@ -11050,7 +11077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 95.25 0)
 			(effects
 				(font
@@ -11169,7 +11196,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 86.995 0)
 			(effects
 				(font
@@ -11213,7 +11240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 95.25 0)
 			(effects
 				(font
@@ -11222,7 +11249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 95.25 0)
 			(effects
 				(font
@@ -11275,7 +11302,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 279.4 182.245 0)
 			(effects
 				(font
@@ -11319,7 +11346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 280.67 190.5 0)
 			(effects
 				(font
@@ -11328,7 +11355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 280.67 190.5 0)
 			(effects
 				(font
@@ -12265,7 +12292,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 977.9 213.995 0)
 			(effects
 				(font
@@ -12309,7 +12336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 979.17 222.25 0)
 			(effects
 				(font
@@ -12318,7 +12345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 979.17 222.25 0)
 			(effects
 				(font
@@ -12371,7 +12398,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 279.4 86.995 0)
 			(effects
 				(font
@@ -12415,7 +12442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 280.67 95.25 0)
 			(effects
 				(font
@@ -12424,7 +12451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 280.67 95.25 0)
 			(effects
 				(font
@@ -12477,7 +12504,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 215.9 213.995 0)
 			(effects
 				(font
@@ -12521,7 +12548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 217.17 222.25 0)
 			(effects
 				(font
@@ -12530,7 +12557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 217.17 222.25 0)
 			(effects
 				(font
@@ -12583,7 +12610,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 213.995 0)
 			(effects
 				(font
@@ -12627,7 +12654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 222.25 0)
 			(effects
 				(font
@@ -12636,7 +12663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 222.25 0)
 			(effects
 				(font
@@ -12821,7 +12848,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 245.745 0)
 			(effects
 				(font
@@ -12865,7 +12892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 254 0)
 			(effects
 				(font
@@ -12874,7 +12901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 254 0)
 			(effects
 				(font
@@ -12993,7 +13020,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 88.9 86.995 0)
 			(effects
 				(font
@@ -13037,7 +13064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 90.17 95.25 0)
 			(effects
 				(font
@@ -13046,7 +13073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 90.17 95.25 0)
 			(effects
 				(font
@@ -13165,7 +13192,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 88.9 150.495 0)
 			(effects
 				(font
@@ -13209,7 +13236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 90.17 158.75 0)
 			(effects
 				(font
@@ -13218,7 +13245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 90.17 158.75 0)
 			(effects
 				(font
@@ -13271,7 +13298,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 88.9 118.745 0)
 			(effects
 				(font
@@ -13315,7 +13342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 90.17 127 0)
 			(effects
 				(font
@@ -13324,7 +13351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 90.17 127 0)
 			(effects
 				(font
@@ -13707,7 +13734,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 118.745 0)
 			(effects
 				(font
@@ -13751,7 +13778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 127 0)
 			(effects
 				(font
@@ -13760,7 +13787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 127 0)
 			(effects
 				(font
@@ -14077,7 +14104,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 342.9 118.745 0)
 			(effects
 				(font
@@ -14121,7 +14148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 344.17 127 0)
 			(effects
 				(font
@@ -14130,7 +14157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 344.17 127 0)
 			(effects
 				(font
@@ -14381,7 +14408,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 660.4 213.995 0)
 			(effects
 				(font
@@ -14425,7 +14452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 661.67 222.25 0)
 			(effects
 				(font
@@ -14434,7 +14461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 661.67 222.25 0)
 			(effects
 				(font
@@ -14599,7 +14626,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 182.245 0)
 			(effects
 				(font
@@ -14643,7 +14670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 190.5 0)
 			(effects
 				(font
@@ -14652,7 +14679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 190.5 0)
 			(effects
 				(font
@@ -14903,7 +14930,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 245.745 0)
 			(effects
 				(font
@@ -14947,7 +14974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 254 0)
 			(effects
 				(font
@@ -14956,7 +14983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 254 0)
 			(effects
 				(font
@@ -15075,7 +15102,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 723.9 86.995 0)
 			(effects
 				(font
@@ -15119,7 +15146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 725.17 95.25 0)
 			(effects
 				(font
@@ -15128,7 +15155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 725.17 95.25 0)
 			(effects
 				(font
@@ -15181,7 +15208,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 245.745 0)
 			(effects
 				(font
@@ -15225,7 +15252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 254 0)
 			(effects
 				(font
@@ -15234,7 +15261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 254 0)
 			(effects
 				(font
@@ -15287,7 +15314,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 723.9 150.495 0)
 			(effects
 				(font
@@ -15331,7 +15358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 725.17 158.75 0)
 			(effects
 				(font
@@ -15340,7 +15367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 725.17 158.75 0)
 			(effects
 				(font
@@ -15657,7 +15684,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 723.9 118.745 0)
 			(effects
 				(font
@@ -15701,7 +15728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 725.17 127 0)
 			(effects
 				(font
@@ -15710,7 +15737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 725.17 127 0)
 			(effects
 				(font
@@ -16027,7 +16054,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 660.4 182.245 0)
 			(effects
 				(font
@@ -16071,7 +16098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 661.67 190.5 0)
 			(effects
 				(font
@@ -16080,7 +16107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 661.67 190.5 0)
 			(effects
 				(font
@@ -16133,7 +16160,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 215.9 182.245 0)
 			(effects
 				(font
@@ -16177,7 +16204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 217.17 190.5 0)
 			(effects
 				(font
@@ -16186,7 +16213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 217.17 190.5 0)
 			(effects
 				(font
@@ -16344,6 +16371,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 444.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD74HC4067M"
+			(at 444.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C496123 "
+			(at 444.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "24"
 			(uuid "30f57335-7872-4ca2-ad45-9ac39519bd5d")
 		)
@@ -16442,7 +16496,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 213.995 0)
 			(effects
 				(font
@@ -16486,7 +16540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 222.25 0)
 			(effects
 				(font
@@ -16495,7 +16549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 222.25 0)
 			(effects
 				(font
@@ -16614,7 +16668,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 86.995 0)
 			(effects
 				(font
@@ -16658,7 +16712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 95.25 0)
 			(effects
 				(font
@@ -16667,7 +16721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 95.25 0)
 			(effects
 				(font
@@ -17050,7 +17104,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 213.995 0)
 			(effects
 				(font
@@ -17094,7 +17148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 222.25 0)
 			(effects
 				(font
@@ -17103,7 +17157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 222.25 0)
 			(effects
 				(font
@@ -17222,7 +17276,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 150.495 0)
 			(effects
 				(font
@@ -17266,7 +17320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 158.75 0)
 			(effects
 				(font
@@ -17275,7 +17329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 158.75 0)
 			(effects
 				(font
@@ -17394,7 +17448,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 152.4 182.245 0)
 			(effects
 				(font
@@ -17438,7 +17492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 153.67 190.5 0)
 			(effects
 				(font
@@ -17447,7 +17501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 153.67 190.5 0)
 			(effects
 				(font
@@ -17612,7 +17666,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 118.745 0)
 			(effects
 				(font
@@ -17656,7 +17710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 127 0)
 			(effects
 				(font
@@ -17665,7 +17719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 127 0)
 			(effects
 				(font
@@ -17784,7 +17838,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 118.745 0)
 			(effects
 				(font
@@ -17828,7 +17882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 127 0)
 			(effects
 				(font
@@ -17837,7 +17891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 127 0)
 			(effects
 				(font
@@ -18022,7 +18076,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 279.4 118.745 0)
 			(effects
 				(font
@@ -18066,7 +18120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 280.67 127 0)
 			(effects
 				(font
@@ -18075,7 +18129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 280.67 127 0)
 			(effects
 				(font
@@ -18128,7 +18182,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 279.4 213.995 0)
 			(effects
 				(font
@@ -18172,7 +18226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 280.67 222.25 0)
 			(effects
 				(font
@@ -18181,7 +18235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 280.67 222.25 0)
 			(effects
 				(font
@@ -18432,7 +18486,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 182.245 0)
 			(effects
 				(font
@@ -18476,7 +18530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 190.5 0)
 			(effects
 				(font
@@ -18485,7 +18539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 190.5 0)
 			(effects
 				(font
@@ -18604,7 +18658,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 88.9 213.995 0)
 			(effects
 				(font
@@ -18648,7 +18702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 90.17 222.25 0)
 			(effects
 				(font
@@ -18657,7 +18711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 90.17 222.25 0)
 			(effects
 				(font
@@ -18908,7 +18962,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 152.4 86.995 0)
 			(effects
 				(font
@@ -18952,7 +19006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 153.67 95.25 0)
 			(effects
 				(font
@@ -18961,7 +19015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 153.67 95.25 0)
 			(effects
 				(font
@@ -19080,7 +19134,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 533.4 245.745 0)
 			(effects
 				(font
@@ -19124,7 +19178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 534.67 254 0)
 			(effects
 				(font
@@ -19133,7 +19187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 534.67 254 0)
 			(effects
 				(font
@@ -19318,7 +19372,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 342.9 213.995 0)
 			(effects
 				(font
@@ -19362,7 +19416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 344.17 222.25 0)
 			(effects
 				(font
@@ -19371,7 +19425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 344.17 222.25 0)
 			(effects
 				(font
@@ -19736,7 +19790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 317.5 383.54 0)
 			(effects
 				(font
@@ -19745,7 +19799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "CD74HC4067M"
 			(at 317.5 383.54 0)
 			(effects
 				(font
@@ -19754,7 +19808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C496123 "
 			(at 317.5 383.54 0)
 			(effects
 				(font
@@ -19861,7 +19915,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 977.9 118.745 0)
 			(effects
 				(font
@@ -19905,7 +19959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 979.17 127 0)
 			(effects
 				(font
@@ -19914,7 +19968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 979.17 127 0)
 			(effects
 				(font
@@ -20033,7 +20087,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 86.995 0)
 			(effects
 				(font
@@ -20077,7 +20131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 95.25 0)
 			(effects
 				(font
@@ -20086,7 +20140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 95.25 0)
 			(effects
 				(font
@@ -20139,7 +20193,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 213.995 0)
 			(effects
 				(font
@@ -20183,7 +20237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 222.25 0)
 			(effects
 				(font
@@ -20192,7 +20246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 222.25 0)
 			(effects
 				(font
@@ -20509,7 +20563,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 977.9 86.995 0)
 			(effects
 				(font
@@ -20553,7 +20607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 979.17 95.25 0)
 			(effects
 				(font
@@ -20562,7 +20616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 979.17 95.25 0)
 			(effects
 				(font
@@ -20681,7 +20735,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 977.9 182.245 0)
 			(effects
 				(font
@@ -20725,7 +20779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 979.17 190.5 0)
 			(effects
 				(font
@@ -20734,7 +20788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 979.17 190.5 0)
 			(effects
 				(font
@@ -20985,7 +21039,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 342.9 182.245 0)
 			(effects
 				(font
@@ -21029,7 +21083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 344.17 190.5 0)
 			(effects
 				(font
@@ -21038,7 +21092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 344.17 190.5 0)
 			(effects
 				(font
@@ -21091,7 +21145,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 215.9 118.745 0)
 			(effects
 				(font
@@ -21135,7 +21189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 217.17 127 0)
 			(effects
 				(font
@@ -21144,7 +21198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 217.17 127 0)
 			(effects
 				(font
@@ -21330,7 +21384,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 152.4 150.495 0)
 			(effects
 				(font
@@ -21374,7 +21428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 153.67 158.75 0)
 			(effects
 				(font
@@ -21383,7 +21437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 153.67 158.75 0)
 			(effects
 				(font
@@ -21502,7 +21556,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 215.9 150.495 0)
 			(effects
 				(font
@@ -21546,7 +21600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 217.17 158.75 0)
 			(effects
 				(font
@@ -21555,7 +21609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 217.17 158.75 0)
 			(effects
 				(font
@@ -21608,7 +21662,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 150.495 0)
 			(effects
 				(font
@@ -21652,7 +21706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 158.75 0)
 			(effects
 				(font
@@ -21661,7 +21715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 158.75 0)
 			(effects
 				(font
@@ -21912,7 +21966,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 86.995 0)
 			(effects
 				(font
@@ -21956,7 +22010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 95.25 0)
 			(effects
 				(font
@@ -21965,7 +22019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 95.25 0)
 			(effects
 				(font
@@ -22018,7 +22072,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 150.495 0)
 			(effects
 				(font
@@ -22062,7 +22116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 158.75 0)
 			(effects
 				(font
@@ -22071,7 +22125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 158.75 0)
 			(effects
 				(font
@@ -22256,7 +22310,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 150.495 0)
 			(effects
 				(font
@@ -22300,7 +22354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 158.75 0)
 			(effects
 				(font
@@ -22309,7 +22363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 158.75 0)
 			(effects
 				(font
@@ -22626,7 +22680,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 342.9 86.995 0)
 			(effects
 				(font
@@ -22670,7 +22724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 344.17 95.25 0)
 			(effects
 				(font
@@ -22679,7 +22733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 344.17 95.25 0)
 			(effects
 				(font
@@ -22798,7 +22852,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 213.995 0)
 			(effects
 				(font
@@ -22842,7 +22896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 222.25 0)
 			(effects
 				(font
@@ -22851,7 +22905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 222.25 0)
 			(effects
 				(font
@@ -23036,7 +23090,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 723.9 245.745 0)
 			(effects
 				(font
@@ -23080,7 +23134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 725.17 254 0)
 			(effects
 				(font
@@ -23089,7 +23143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 725.17 254 0)
 			(effects
 				(font
@@ -23208,7 +23262,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 150.495 0)
 			(effects
 				(font
@@ -23252,7 +23306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 158.75 0)
 			(effects
 				(font
@@ -23261,7 +23315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 158.75 0)
 			(effects
 				(font
@@ -23380,7 +23434,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 182.245 0)
 			(effects
 				(font
@@ -23424,7 +23478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 190.5 0)
 			(effects
 				(font
@@ -23433,7 +23487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 190.5 0)
 			(effects
 				(font
@@ -23684,7 +23738,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 215.9 86.995 0)
 			(effects
 				(font
@@ -23728,7 +23782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 217.17 95.25 0)
 			(effects
 				(font
@@ -23737,7 +23791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 217.17 95.25 0)
 			(effects
 				(font
@@ -23790,7 +23844,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 660.4 150.495 0)
 			(effects
 				(font
@@ -23834,7 +23888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 661.67 158.75 0)
 			(effects
 				(font
@@ -23843,7 +23897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 661.67 158.75 0)
 			(effects
 				(font
@@ -23896,7 +23950,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 152.4 213.995 0)
 			(effects
 				(font
@@ -23940,7 +23994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 153.67 222.25 0)
 			(effects
 				(font
@@ -23949,7 +24003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 153.67 222.25 0)
 			(effects
 				(font
@@ -24134,7 +24188,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 182.245 0)
 			(effects
 				(font
@@ -24178,7 +24232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 190.5 0)
 			(effects
 				(font
@@ -24187,7 +24241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 190.5 0)
 			(effects
 				(font
@@ -24438,7 +24492,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 279.4 150.495 0)
 			(effects
 				(font
@@ -24482,7 +24536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 280.67 158.75 0)
 			(effects
 				(font
@@ -24491,7 +24545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 280.67 158.75 0)
 			(effects
 				(font
@@ -24676,7 +24730,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 150.495 0)
 			(effects
 				(font
@@ -24720,7 +24774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 158.75 0)
 			(effects
 				(font
@@ -24729,7 +24783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 158.75 0)
 			(effects
 				(font
@@ -24848,7 +24902,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 118.745 0)
 			(effects
 				(font
@@ -24892,7 +24946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 127 0)
 			(effects
 				(font
@@ -24901,7 +24955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 127 0)
 			(effects
 				(font
@@ -24954,7 +25008,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 118.745 0)
 			(effects
 				(font
@@ -24998,7 +25052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 127 0)
 			(effects
 				(font
@@ -25007,7 +25061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 127 0)
 			(effects
 				(font
@@ -25258,7 +25312,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 245.745 0)
 			(effects
 				(font
@@ -25302,7 +25356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 254 0)
 			(effects
 				(font
@@ -25311,7 +25365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 254 0)
 			(effects
 				(font
@@ -25364,7 +25418,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 787.4 245.745 0)
 			(effects
 				(font
@@ -25408,7 +25462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 788.67 254 0)
 			(effects
 				(font
@@ -25417,7 +25471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 788.67 254 0)
 			(effects
 				(font
@@ -25699,6 +25753,33 @@
 			)
 		)
 		(property "Description" "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"
+			(at 571.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 571.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD74HC4067M"
+			(at 571.5 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C496123 "
 			(at 571.5 381 0)
 			(effects
 				(font
@@ -26069,7 +26150,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 469.9 182.245 0)
 			(effects
 				(font
@@ -26113,7 +26194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 471.17 190.5 0)
 			(effects
 				(font
@@ -26122,7 +26203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 471.17 190.5 0)
 			(effects
 				(font
@@ -26205,6 +26286,33 @@
 			)
 		)
 		(property "Description" "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"
+			(at 635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD74HC4067M"
+			(at 635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C496123 "
 			(at 635 381 0)
 			(effects
 				(font
@@ -26377,7 +26485,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 342.9 150.495 0)
 			(effects
 				(font
@@ -26421,7 +26529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 344.17 158.75 0)
 			(effects
 				(font
@@ -26430,7 +26538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 344.17 158.75 0)
 			(effects
 				(font
@@ -26483,7 +26591,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 914.4 213.995 0)
 			(effects
 				(font
@@ -26527,7 +26635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 915.67 222.25 0)
 			(effects
 				(font
@@ -26536,7 +26644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 915.67 222.25 0)
 			(effects
 				(font
@@ -26589,7 +26697,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 213.995 0)
 			(effects
 				(font
@@ -26633,7 +26741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 222.25 0)
 			(effects
 				(font
@@ -26642,7 +26750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 222.25 0)
 			(effects
 				(font
@@ -26761,7 +26869,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 850.9 86.995 0)
 			(effects
 				(font
@@ -26805,7 +26913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 852.17 95.25 0)
 			(effects
 				(font
@@ -26814,7 +26922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 852.17 95.25 0)
 			(effects
 				(font
@@ -26867,7 +26975,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 406.4 118.745 0)
 			(effects
 				(font
@@ -26911,7 +27019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 407.67 127 0)
 			(effects
 				(font
@@ -26920,7 +27028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 407.67 127 0)
 			(effects
 				(font
@@ -26973,7 +27081,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 660.4 118.745 0)
 			(effects
 				(font
@@ -27017,7 +27125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 661.67 127 0)
 			(effects
 				(font
@@ -27026,7 +27134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 661.67 127 0)
 			(effects
 				(font
@@ -27277,7 +27385,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 723.9 182.245 0)
 			(effects
 				(font
@@ -27321,7 +27429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 725.17 190.5 0)
 			(effects
 				(font
@@ -27330,7 +27438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 725.17 190.5 0)
 			(effects
 				(font
@@ -27534,6 +27642,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 508.635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD74HC4067M"
+			(at 508.635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C496123 "
+			(at 508.635 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "24"
 			(uuid "ac67b498-6c81-4a77-b8c8-be25ea456aea")
 		)
@@ -27632,7 +27767,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 596.9 182.245 0)
 			(effects
 				(font
@@ -27676,7 +27811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 598.17 190.5 0)
 			(effects
 				(font
@@ -27685,7 +27820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 598.17 190.5 0)
 			(effects
 				(font
@@ -27870,7 +28005,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 660.4 245.745 0)
 			(effects
 				(font
@@ -27914,7 +28049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 661.67 254 0)
 			(effects
 				(font
@@ -27923,7 +28058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 661.67 254 0)
 			(effects
 				(font
@@ -28220,7 +28355,7 @@
 				)
 			)
 		)
-		(property "Value" "AH3503"
+		(property "Value" "HAL4904"
 			(at 977.9 150.495 0)
 			(effects
 				(font
@@ -28264,7 +28399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hallwee"
 			(at 979.17 158.75 0)
 			(effects
 				(font
@@ -28273,7 +28408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "HAL4904"
 			(at 979.17 158.75 0)
 			(effects
 				(font

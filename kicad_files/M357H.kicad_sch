@@ -5657,10 +5657,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 111.76) (xy 422.275 111.76)
+			(xy 355.6 114.3) (xy 419.1 114.3)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "0480af16-1441-45da-bcd7-6d334901eb1e")
@@ -5707,10 +5707,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 22.86) (xy 434.975 22.86)
+			(xy 355.6 25.4) (xy 431.8 25.4)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "1084ae4e-a71a-42c4-b481-b7eadab4dc0a")
@@ -5767,10 +5767,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 181.61) (xy 434.34 181.61)
+			(xy 355.6 184.15) (xy 431.165 184.15)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "1ee7c7e1-39e9-44d6-a1b5-bce1d453ad56")
@@ -5860,7 +5860,7 @@
 			(xy 469.9 101.6) (xy 469.9 231.775)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "2917877c-c481-4ac5-9ba2-a92629337774")
@@ -5877,17 +5877,17 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 41.91) (xy 434.34 41.91)
+			(xy 355.6 44.45) (xy 431.165 44.45)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "2d987aa7-7c2e-4f0a-a096-1351835e85d6")
 	)
 	(wire
 		(pts
-			(xy 403.225 63.5) (xy 403.225 66.04)
+			(xy 400.05 66.04) (xy 400.05 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6000,7 +6000,7 @@
 			(xy 571.5 231.775) (xy 469.9 231.775)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "40d53442-6696-4e78-9aad-ecc72cfa9821")
@@ -6030,7 +6030,7 @@
 			(xy 571.5 101.6) (xy 571.5 231.775)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "4496e383-4ff0-4174-aa70-aeb37377dfee")
@@ -6047,7 +6047,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.145 58.42) (xy 398.145 64.135)
+			(xy 394.97 60.96) (xy 394.97 66.675)
 		)
 		(stroke
 			(width 0)
@@ -6067,10 +6067,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 92.71) (xy 422.275 92.71)
+			(xy 355.6 95.25) (xy 419.1 95.25)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "4ca73be0-e829-4891-8820-eb14118498e2")
@@ -6117,10 +6117,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 232.41) (xy 358.775 162.56)
+			(xy 355.6 234.95) (xy 355.6 165.1)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "4ee843d9-9938-40dd-b12e-85d81c80dee1")
@@ -6177,10 +6177,10 @@
 	)
 	(polyline
 		(pts
-			(xy 422.275 149.86) (xy 358.775 149.86)
+			(xy 419.1 152.4) (xy 355.6 152.4)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "5395a4b9-8472-47e4-a0cf-90bdb191e889")
@@ -6307,10 +6307,10 @@
 	)
 	(polyline
 		(pts
-			(xy 422.275 92.71) (xy 422.275 149.86)
+			(xy 419.1 95.25) (xy 419.1 152.4)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "59fef4e2-f31c-4764-90d7-34bb981f25aa")
@@ -6330,7 +6330,7 @@
 			(xy 469.9 120.65) (xy 571.5 120.65)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "5ed452d8-f135-4050-bd27-d0f5b53e02fe")
@@ -6540,7 +6540,7 @@
 			(xy 469.9 101.6) (xy 571.5 101.6)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "743b6b0c-1ded-4999-92ce-33a9207ead29")
@@ -6597,10 +6597,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 92.71) (xy 358.775 149.86)
+			(xy 355.6 95.25) (xy 355.6 152.4)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "78010a81-4ec3-4a9c-bf5f-ed0f2f32e74b")
@@ -6627,7 +6627,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 55.88) (xy 398.145 55.88)
+			(xy 382.905 58.42) (xy 394.97 58.42)
 		)
 		(stroke
 			(width 0)
@@ -6690,8 +6690,8 @@
 			(xy 469.9 44.45) (xy 469.9 88.9)
 		)
 		(stroke
-			(width 1.27)
-			(type solid)
+			(width 1.016)
+			(type dash)
 		)
 		(uuid "86a233a4-c15a-4b77-a95f-e03f8e1fd481")
 	)
@@ -6710,8 +6710,8 @@
 			(xy 520.7 44.45) (xy 469.9 44.45)
 		)
 		(stroke
-			(width 1.27)
-			(type solid)
+			(width 1.016)
+			(type dash)
 		)
 		(uuid "8711eaad-bf32-4c9e-aec7-4475a6ca13d8")
 	)
@@ -6770,8 +6770,8 @@
 			(xy 520.7 44.45) (xy 520.7 88.9)
 		)
 		(stroke
-			(width 1.27)
-			(type solid)
+			(width 1.016)
+			(type dash)
 		)
 		(uuid "90e7f9a0-bb9e-4780-9bb9-4bf51278c11f")
 	)
@@ -6847,10 +6847,10 @@
 	)
 	(polyline
 		(pts
-			(xy 434.975 80.01) (xy 358.775 80.01)
+			(xy 431.8 82.55) (xy 355.6 82.55)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "a40c99c2-8864-4c42-9c30-8d6d7939749c")
@@ -7117,7 +7117,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 53.34) (xy 398.145 53.34)
+			(xy 382.905 55.88) (xy 394.97 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7237,10 +7237,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 162.56) (xy 434.975 162.56)
+			(xy 355.6 165.1) (xy 431.8 165.1)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "d81355fd-33a0-469a-8f54-9d36e3577618")
@@ -7327,10 +7327,10 @@
 	)
 	(polyline
 		(pts
-			(xy 434.975 22.86) (xy 434.975 80.01)
+			(xy 431.8 25.4) (xy 431.8 82.55)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "e17c4ea5-86b6-4cfd-a3b1-ef21e5cd59d0")
@@ -7347,10 +7347,10 @@
 	)
 	(polyline
 		(pts
-			(xy 358.775 80.01) (xy 358.775 22.86)
+			(xy 355.6 82.55) (xy 355.6 25.4)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "e21d05bb-d5d1-4417-a0f9-dd57bd9206a9")
@@ -7397,10 +7397,10 @@
 	)
 	(polyline
 		(pts
-			(xy 434.975 162.56) (xy 434.975 232.41)
+			(xy 431.8 165.1) (xy 431.8 234.95)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "f0023a51-bfac-4d1b-80bf-dda88fca7848")
@@ -7450,8 +7450,8 @@
 			(xy 520.7 88.9) (xy 469.9 88.9)
 		)
 		(stroke
-			(width 1.27)
-			(type solid)
+			(width 1.016)
+			(type dash)
 		)
 		(uuid "f49dadfb-0654-4aed-bc32-4119d465e902")
 	)
@@ -7467,10 +7467,10 @@
 	)
 	(polyline
 		(pts
-			(xy 434.975 232.41) (xy 358.775 232.41)
+			(xy 431.8 234.95) (xy 355.6 234.95)
 		)
 		(stroke
-			(width 0.508)
+			(width 1.016)
 			(type dash)
 		)
 		(uuid "f779ff3c-f25a-462c-93b2-ed665ca67bf6")
@@ -7557,7 +7557,7 @@
 	)
 	(text "MOUNT"
 		(exclude_from_sim no)
-		(at 396.875 172.72 0)
+		(at 393.7 175.26 0)
 		(effects
 			(font
 				(size 7.62 7.62)
@@ -7583,7 +7583,7 @@
 	)
 	(text "GRAPHICS"
 		(exclude_from_sim no)
-		(at 390.525 102.87 0)
+		(at 387.35 105.41 0)
 		(effects
 			(font
 				(size 7.62 7.62)
@@ -7606,7 +7606,7 @@
 	)
 	(text "USB"
 		(exclude_from_sim no)
-		(at 396.24 33.02 0)
+		(at 393.065 35.56 0)
 		(effects
 			(font
 				(size 7.62 7.62)
@@ -7644,7 +7644,7 @@
 		(uuid "b3ed1f87-419d-40a5-a22e-691286c522ae")
 	)
 	(label "DB_D-"
-		(at 396.875 53.34 180)
+		(at 393.7 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7655,7 +7655,7 @@
 		(uuid "175921fa-db5a-4cf2-87b6-e0f00778a1c6")
 	)
 	(label "DB_D+"
-		(at 396.875 55.88 180)
+		(at 393.7 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8190,7 +8190,7 @@
 	)
 	(global_label "D-"
 		(shape bidirectional)
-		(at 386.08 53.34 180)
+		(at 382.905 55.88 180)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -8199,7 +8199,7 @@
 		)
 		(uuid "32e39722-b97e-4c35-b9b5-eef2763e43ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 382.9267 53.2924 0)
+			(at 379.7517 55.8324 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -9242,7 +9242,7 @@
 	)
 	(global_label "5V"
 		(shape output)
-		(at 398.145 50.8 180)
+		(at 394.97 53.34 180)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -9251,7 +9251,7 @@
 		)
 		(uuid "9ae34b12-0196-4380-af34-7d4d1026a93e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 395.3182 50.7524 0)
+			(at 392.1432 53.2924 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -10040,7 +10040,7 @@
 	)
 	(global_label "D+"
 		(shape bidirectional)
-		(at 386.08 55.88 180)
+		(at 382.905 58.42 180)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -10049,7 +10049,7 @@
 		)
 		(uuid "e48a0562-ee18-4bcc-9278-aab4a0e40a36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 382.9267 55.8324 0)
+			(at 379.7517 58.3724 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -11390,7 +11390,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 377.825 216.535 0)
+		(at 374.65 219.075 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11398,7 +11398,7 @@
 		(dnp no)
 		(uuid "13d40fd9-4ac3-479c-99a2-c5d32d4c2203")
 		(property "Reference" "H3"
-			(at 381.635 215.773 0)
+			(at 378.46 218.313 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11407,7 +11407,7 @@
 			)
 		)
 		(property "Value" "9774035243R"
-			(at 381.635 218.3129 0)
+			(at 378.46 220.8529 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11416,7 +11416,7 @@
 			)
 		)
 		(property "Footprint" "acheron_Hardware:9774030243R"
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11425,7 +11425,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11434,7 +11434,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11443,7 +11443,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11452,7 +11452,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "9774035243R"
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11461,7 +11461,16 @@
 			)
 		)
 		(property "Specification" "Surface mount steel standoff M2x0.4 3.5mm"
-			(at 377.825 216.535 0)
+			(at 374.65 219.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC 732-7088-"
+			(at 374.65 219.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11795,7 +11804,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25MHz"
+		(property "Value" "TAXM8M4RFDCET2T"
 			(at 52.07 125.0949 0)
 			(effects
 				(font
@@ -11831,7 +11840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TAE"
 			(at 50.8 130.175 0)
 			(effects
 				(font
@@ -11840,7 +11849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C403948"
 			(at 50.8 130.175 0)
 			(effects
 				(font
@@ -11849,7 +11858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Y3225_4P"
 			(at 50.8 130.175 0)
 			(effects
 				(font
@@ -11858,7 +11867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "TAXM8M4RFDCET2T"
 			(at 50.8 130.175 0)
 			(effects
 				(font
@@ -11867,7 +11876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specification" ""
+		(property "Specification" "8MHz 3225-4P oscillator crystal"
 			(at 50.8 130.175 0)
 			(effects
 				(font
@@ -11899,7 +11908,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 377.825 192.405 0)
+		(at 374.65 194.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11907,7 +11916,7 @@
 		(dnp no)
 		(uuid "1da76c3f-8f90-4ea7-8e98-5373783db8c3")
 		(property "Reference" "H1"
-			(at 381.635 191.643 0)
+			(at 378.46 194.183 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11916,7 +11925,7 @@
 			)
 		)
 		(property "Value" "9774035243R"
-			(at 381.635 194.1829 0)
+			(at 378.46 196.7229 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11925,7 +11934,7 @@
 			)
 		)
 		(property "Footprint" "acheron_Hardware:9774030243R"
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11934,7 +11943,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11943,7 +11952,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11952,7 +11961,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11961,7 +11970,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "9774035243R"
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11970,7 +11979,16 @@
 			)
 		)
 		(property "Specification" "Surface mount steel standoff M2x0.4 3.5mm"
-			(at 377.825 192.405 0)
+			(at 374.65 194.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC 732-7088-"
+			(at 374.65 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12301,7 +12319,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 384.175 124.46 0)
+		(at 381 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -12309,7 +12327,7 @@
 		(dnp no)
 		(uuid "24f052e3-e17e-4d6e-a45b-51ac50c713de")
 		(property "Reference" "GR1"
-			(at 387.985 123.19 0)
+			(at 384.81 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12318,7 +12336,7 @@
 			)
 		)
 		(property "Value" "Label"
-			(at 387.985 125.73 0)
+			(at 384.81 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12327,7 +12345,7 @@
 			)
 		)
 		(property "Footprint" "m75h_library:m75h_label"
-			(at 384.175 124.46 0)
+			(at 381 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12336,7 +12354,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 384.175 124.46 0)
+			(at 381 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12345,7 +12363,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 384.175 124.46 0)
+			(at 381 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12918,7 +12936,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 377.825 210.185 0)
+		(at 374.65 212.725 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12926,7 +12944,7 @@
 		(dnp no)
 		(uuid "34c84c73-8383-48ff-8190-c165c9d9d103")
 		(property "Reference" "H2"
-			(at 381.635 209.423 0)
+			(at 378.46 211.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12935,7 +12953,7 @@
 			)
 		)
 		(property "Value" "9774035243R"
-			(at 381.635 211.9629 0)
+			(at 378.46 214.5029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12944,7 +12962,7 @@
 			)
 		)
 		(property "Footprint" "acheron_Hardware:9774030243R"
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12953,7 +12971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12962,7 +12980,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12971,7 +12989,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12980,7 +12998,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "9774035243R"
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12989,7 +13007,16 @@
 			)
 		)
 		(property "Specification" "Surface mount steel standoff M2x0.4 3.5mm"
-			(at 377.825 210.185 0)
+			(at 374.65 212.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC 732-7088-"
+			(at 374.65 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13187,7 +13214,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 377.825 222.885 0)
+		(at 374.65 225.425 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13195,7 +13222,7 @@
 		(dnp no)
 		(uuid "3aa3548a-8ac5-45f7-ba63-fe7981f577a8")
 		(property "Reference" "H4"
-			(at 381.635 222.123 0)
+			(at 378.46 224.663 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13204,7 +13231,7 @@
 			)
 		)
 		(property "Value" "9774035243R"
-			(at 381.635 224.6629 0)
+			(at 378.46 227.2029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13213,7 +13240,7 @@
 			)
 		)
 		(property "Footprint" "acheron_Hardware:9774030243R"
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13222,7 +13249,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13231,7 +13258,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13240,7 +13267,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13249,7 +13276,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "9774035243R"
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13258,7 +13285,16 @@
 			)
 		)
 		(property "Specification" "Surface mount steel standoff M2x0.4 3.5mm"
-			(at 377.825 222.885 0)
+			(at 374.65 225.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC 732-7088-"
+			(at 374.65 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13591,7 +13627,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 384.175 137.16 0)
+		(at 381 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -13599,7 +13635,7 @@
 		(dnp no)
 		(uuid "47e1ff85-0d62-402b-ba4d-7e3cf1bd36b5")
 		(property "Reference" "GR3"
-			(at 387.985 135.89 0)
+			(at 384.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13608,7 +13644,7 @@
 			)
 		)
 		(property "Value" "Gondo logo"
-			(at 387.985 138.43 0)
+			(at 384.81 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13617,7 +13653,7 @@
 			)
 		)
 		(property "Footprint" "gondolindrim_kicad_logos:gondolindrim_circuit-tree_10.4x12"
-			(at 384.175 137.16 0)
+			(at 381 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13626,7 +13662,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 384.175 137.16 0)
+			(at 381 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13635,7 +13671,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 384.175 137.16 0)
+			(at 381 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13944,7 +13980,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 377.825 194.945 0)
+		(at 374.65 197.485 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13952,7 +13988,7 @@
 		(dnp no)
 		(uuid "51bca6d5-2649-4343-aed3-4c582ab59924")
 		(property "Reference" "#PWR036"
-			(at 377.825 201.295 0)
+			(at 374.65 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13961,7 +13997,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 377.825 198.755 90)
+			(at 374.65 201.295 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13970,7 +14006,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.825 194.945 0)
+			(at 374.65 197.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13979,7 +14015,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.825 194.945 0)
+			(at 374.65 197.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13988,7 +14024,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 377.825 194.945 0)
+			(at 374.65 197.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15071,7 +15107,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 403.225 53.34 0)
+		(at 400.05 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15079,7 +15115,7 @@
 		(dnp no)
 		(uuid "6dde4ca9-fac1-4781-bd76-1ece13e93f19")
 		(property "Reference" "J1"
-			(at 405.765 55.88 0)
+			(at 402.59 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15088,7 +15124,7 @@
 			)
 		)
 		(property "Value" "SM04B-SRSS-TB(LF)(SN)"
-			(at 405.765 58.42 0)
+			(at 402.59 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15097,7 +15133,7 @@
 			)
 		)
 		(property "Footprint" "acheron_Connectors:SM04B-SRSS-TB(LF)(SN)_mounting-reliefs"
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15106,7 +15142,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15115,7 +15151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15124,7 +15160,7 @@
 			)
 		)
 		(property "Manufacturer" "JST"
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15133,7 +15169,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "SM04B-SRSS-TB(LF)(SN)"
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15141,8 +15177,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C160404"
-			(at 403.225 53.34 0)
+		(property "LCSC Part Number" ""
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15151,7 +15187,16 @@
 			)
 		)
 		(property "Specification" "Wire to board SR/SZ header male pin, 1mm pitch"
-			(at 403.225 53.34 0)
+			(at 400.05 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Part Number" "LCSC C160404 "
+			(at 400.05 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15653,7 +15698,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 403.225 66.04 0)
+		(at 400.05 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15662,7 +15707,7 @@
 		(fields_autoplaced yes)
 		(uuid "78f6f632-5182-4ab5-9693-928b1c8c59b6")
 		(property "Reference" "#PWR035"
-			(at 403.225 72.39 0)
+			(at 400.05 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15671,7 +15716,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 403.225 70.485 0)
+			(at 400.05 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15679,7 +15724,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.225 66.04 0)
+			(at 400.05 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15688,7 +15733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 403.225 66.04 0)
+			(at 400.05 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15697,7 +15742,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 403.225 66.04 0)
+			(at 400.05 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15719,7 +15764,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 384.175 130.81 0)
+		(at 381 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -15727,7 +15772,7 @@
 		(dnp no)
 		(uuid "79f823a9-26fa-4eb7-bfb2-8e0ee857b26c")
 		(property "Reference" "GR2"
-			(at 387.985 129.54 0)
+			(at 384.81 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15736,7 +15781,7 @@
 			)
 		)
 		(property "Value" "MODE huge logo"
-			(at 387.985 132.08 0)
+			(at 384.81 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15745,7 +15790,7 @@
 			)
 		)
 		(property "Footprint" "m75s_library:mode_logo_30x11mm"
-			(at 384.175 130.81 0)
+			(at 381 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15754,7 +15799,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 384.175 130.81 0)
+			(at 381 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15763,7 +15808,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 384.175 130.81 0)
+			(at 381 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16357,7 +16402,7 @@
 		(at 303.53 135.255 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16683,7 +16728,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32F401-LQFP64"
+		(property "Value" "STM32F401RCT6"
 			(at 190.5 113.03 0)
 			(effects
 				(font
@@ -16728,7 +16773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 190.5 111.125 0)
 			(effects
 				(font
@@ -16737,7 +16782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "STM32F401RCT6"
 			(at 190.5 111.125 0)
 			(effects
 				(font
@@ -16746,7 +16791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C74524 "
 			(at 190.5 111.125 0)
 			(effects
 				(font
@@ -17090,7 +17135,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 398.145 64.135 0)
+		(at 394.97 66.675 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17099,7 +17144,7 @@
 		(fields_autoplaced yes)
 		(uuid "a293b520-9aac-479a-841b-0e61fa7563e2")
 		(property "Reference" "#PWR034"
-			(at 398.145 70.485 0)
+			(at 394.97 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17108,7 +17153,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 398.145 68.58 0)
+			(at 394.97 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17116,7 +17161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 398.145 64.135 0)
+			(at 394.97 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17125,7 +17170,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 398.145 64.135 0)
+			(at 394.97 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17134,7 +17179,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 398.145 64.135 0)
+			(at 394.97 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17633,7 +17678,7 @@
 		(at 303.53 102.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18049,7 +18094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "FOJAN"
+		(property "Manufacturer" "Uniroyal"
 			(at 50.8 111.125 0)
 			(effects
 				(font
@@ -18058,7 +18103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "FRC0603F1000TS"
+		(property "Manufacturer Part Number" "0603WAF1004T5E"
 			(at 50.8 111.125 0)
 			(effects
 				(font
@@ -18076,7 +18121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C2906981"
+		(property "Vendor Part Number" "LCSC C22935"
 			(at 50.8 111.125 0)
 			(effects
 				(font
@@ -19474,7 +19519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0603B103K500NT"
+		(property "Manufacturer Part Number" "0402CG200J500NT"
 			(at 44.45 135.255 0)
 			(effects
 				(font
@@ -19483,7 +19528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C57112"
+		(property "Vendor Part Number" "LCSC C1554"
 			(at 44.45 135.255 0)
 			(effects
 				(font
@@ -20180,7 +20225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uniroyal"
 			(at 63.5 53.975 0)
 			(effects
 				(font
@@ -20189,7 +20234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0603WAF0000T5E"
 			(at 63.5 53.975 0)
 			(effects
 				(font
@@ -20207,7 +20252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C21189"
 			(at 63.5 53.975 0)
 			(effects
 				(font
@@ -20799,7 +20844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specification" "50V 15pF C0G ±5% 0402 MLCC"
+		(property "Specification" "50V 20pF C0G ±5% 0402 MLCC"
 			(at 57.15 135.255 0)
 			(effects
 				(font
@@ -20817,7 +20862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0603B103K500NT"
+		(property "Manufacturer Part Number" "0402CG200J500NT"
 			(at 57.15 135.255 0)
 			(effects
 				(font
@@ -20826,7 +20871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" "LCSC C57112"
+		(property "Vendor Part Number" "LCSC C1554"
 			(at 57.15 135.255 0)
 			(effects
 				(font

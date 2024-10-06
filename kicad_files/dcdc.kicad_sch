@@ -1655,7 +1655,7 @@
 		(at 587.375 422.275 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0cbd17fd-9feb-4f17-b537-abb616c71336")
@@ -1757,7 +1757,7 @@
 		(at 600.075 422.275 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0edf2b42-6163-46f1-a068-6e5cdc10299c")
@@ -1909,7 +1909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Uniroyal"
 			(at 614.68 438.15 0)
 			(effects
 				(font
@@ -1918,7 +1918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "0603WAF1003T5E"
 			(at 614.68 438.15 0)
 			(effects
 				(font
@@ -1936,7 +1936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part Number" ""
+		(property "Vendor Part Number" "LCSC C25803"
 			(at 614.68 438.15 0)
 			(effects
 				(font
@@ -2505,7 +2505,7 @@
 		(at 593.725 428.625 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "96566bef-de97-4667-adc6-acb243c38759")
